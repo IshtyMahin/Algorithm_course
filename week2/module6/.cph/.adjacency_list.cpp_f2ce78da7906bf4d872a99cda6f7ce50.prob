@@ -1,0 +1,1 @@
+{"name":"Local: adjacency_list","url":"e:\\_Phitron\\_4_Algorithm\\week2\\module6\\adjacency_list.cpp","tests":[{"id":1691340373421,"input":"4\n5\n1 2 8\n1 3 9\n2 4 11\n4 3 17\n3 2 15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\_Phitron\\_4_Algorithm\\week2\\module6\\adjacency_list.cpp","group":"local","local":true}

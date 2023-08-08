@@ -1,0 +1,1 @@
+{"name":"Local: mergeSort","url":"e:\\_Phitron\\_4_Algorithm\\Module3\\mergeSort.cpp","tests":[{"id":1690972964693,"input":"8\n12 7 3 9 2 5 4 18","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\_Phitron\\_4_Algorithm\\Module3\\mergeSort.cpp","group":"local","local":true}
