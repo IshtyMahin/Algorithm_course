@@ -1,0 +1,1 @@
+{"name":"Local: pp2","url":"e:\\_Phitron\\_4_Algorithm\\week5\\module17.5\\pp2.cpp","tests":[{"id":1693198076475,"input":"4\n0 5 9 100\n100 0 2 8\n100 100 0 7\n4 100 100 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\_Phitron\\_4_Algorithm\\week5\\module17.5\\pp2.cpp","group":"local","local":true}

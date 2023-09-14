@@ -1,0 +1,1 @@
+{"name":"Local: _1_subset_sum_top_down","url":"e:\\_Phitron\\_4_Algorithm\\week6\\module23\\_1_subset_sum_top_down.cpp","tests":[{"id":1693999178183,"input":"4\n1 2 4 6\n14","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\_Phitron\\_4_Algorithm\\week6\\module23\\_1_subset_sum_top_down.cpp","group":"local","local":true}

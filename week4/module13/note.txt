@@ -1,0 +1,13 @@
+difference between tree and graph
+-> movement
+-> multi edge
+-> cycle
+
+* undirected graph
+* directed graph
+* weighted graph
+
+graph representation
+-> adjacency matrix
+-> adjacency list
+-> edge list

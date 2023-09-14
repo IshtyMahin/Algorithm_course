@@ -1,0 +1,7 @@
+// Substring and subsequence 
+// Longest common subsequence
+// LCS
+// Longest common substring 
+
+subsequence => continuous -> not mandatory
+subarray/substring => continuous is mandatory 

@@ -1,0 +1,1 @@
+{"name":"Local: 1_longest_common_subsequence","url":"e:\\_Phitron\\_4_Algorithm\\week7\\module26\\1_longest_common_subsequence.cpp","tests":[{"id":1694410212572,"input":"abcdfgr\nacfdgr","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\_Phitron\\_4_Algorithm\\week7\\module26\\1_longest_common_subsequence.cpp","group":"local","local":true}

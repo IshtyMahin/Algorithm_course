@@ -19,26 +19,6 @@ void dfs(int u){
     }
 }
 
-void bfs(int s)
-{
-    queue<int>q;
-    vis[s] = true;
-    q.push(s);
-    while (!q.empty())
-    {
-
-        int u = q.front();
-        q.pop();
-
-        for (auto v : g[u])
-        {
-            if (vis[v])
-                continue;
-            q.push(v);
-            vis[v] = true;
-        }
-    }
-}
 
 int main(){
      int n,e;
@@ -52,10 +32,9 @@ int main(){
 
 
      int c=0;
-     for(int i=1;i<=n;i++){
+     for(int i=0;i<=n;i++){
         if(!vis[i]){ 
             c++;
-            // bfs(i);
             dfs(i);
         }
      }
